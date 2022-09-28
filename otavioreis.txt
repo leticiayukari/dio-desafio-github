@@ -1,0 +1,22 @@
+# Otavio Reis :man_teacher:
+
+### Listagem de comandos 
+
+- ### Linux
+  ls - diretório da pasta onde estou situado
+  cd / - me leva na base do diretório c
+  cd .. - retroceder um nível 
+  mkdir - criar pasta
+  sudo su - liberação de senha
+  echo hello > hello.txt - o símbolo “>” direciona a frase dentro do arquivo que vc quer fazer, neste caso é o txt
+  rm -rf - deletar arquivos e diretórios 
+
+- ### Windows 
+
+  dir - lista de doc. na pasta que estamos situados
+  cd / - me leva no diretório c
+  cd .. - retroceder um nível 
+  cls - limpar a tela
+  mkdir workspace - criar pasta "workspace"
+  rmdir workspace - deleta arquivos e diretórios
+
